@@ -1,0 +1,5 @@
+tensorflow-datasets
+pandas
+matplotlib
+seaborn
+imgaug
